@@ -1,0 +1,40 @@
+generated: '2026-07-21'
+method: searched
+source: https://learn.ubeya.com/en/collections/7405734-product-updates
+scheme: monthly product-update articles in the Ubeya Help Center (Intercom)
+current: Product Updates - July 2026
+entries:
+- version: 2026-07
+  date: '2026-07'
+  url: https://learn.ubeya.com/en/articles/15913964-product-updates-july-2026
+  breaking: false
+  highlights:
+  - Attendance Timestamp Source — hover any clock-in/out or check-in/out timestamp
+    to see how it was recorded (Crew App, Kiosk, QR scans, Admin, Auto-fill,
+    Integration, Automatic System Clock-out); shown in Timesheet, Payroll, Client Invoice
+- version: 2026-06
+  date: '2026-06'
+  url: https://learn.ubeya.com/en/articles/15420197-product-updates-june-2026
+  breaking: false
+  highlights:
+  - Easier employee shift adjustments — adjust an individual employee's shift without
+    changing the original shift
+  - Swap Employee in scheduling — swap employees between shifts directly from the
+    scheduling experience
+  - Improved Late & Attendance visibility in Live Attendance and Live View Timesheet
+- version: 2026-05
+  date: '2026-05'
+  url: https://learn.ubeya.com/en/articles/15054063-product-updates-may-2026
+  breaking: false
+- version: 2026-04
+  date: '2026-04'
+  url: https://learn.ubeya.com/en/articles/14637750-product-updates-april-2026
+  breaking: false
+- version: 2026-03
+  date: '2026-03'
+  url: https://learn.ubeya.com/en/articles/14077069-product-updates-march-2026
+  breaking: false
+- version: 2026-02
+  date: '2026-02'
+  url: https://learn.ubeya.com/en/articles/14125599-product-updates-february-2026
+  breaking: false

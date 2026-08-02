@@ -1,0 +1,18 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.ubeya.com/trust-center
+url: https://www.ubeya.com/trust-center
+certifications:
+- ISO 27001
+- GDPR
+posture:
+- Hosted on AWS infrastructure, leveraging its security controls and certifications
+- Data encrypted in transit and at rest using industry-standard cryptographic protocols
+- Role-Based Access Control (RBAC); MFA mandatory for administrative access, available to all users
+- Continuous vulnerability scanning and regular penetration testing
+- Secure Software Development Lifecycle (SSDLC)
+evidence:
+- source: https://www.ubeya.com/trust-center
+  keywords: [ISO 27001 Certified, GDPR, data encryption, vulnerability management, MFA]
+notes: Trust Center page verified 2026-07-21 (HTTP 200). Claims ISO/IEC 27001 certification
+  and GDPR compliance; no SOC 2, PCI, HIPAA, or FedRAMP claims published.

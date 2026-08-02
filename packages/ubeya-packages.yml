@@ -1,0 +1,17 @@
+generated: '2026-07-21'
+method: searched
+packages:
+- language: javascript
+  registry: npm
+  name: ubeya-cli
+  url: https://www.npmjs.com/package/ubeya-cli
+  install: npm install -g ubeya-cli
+  official: false
+  first_party_publisher: true
+  notes: Published by a Ubeya engineer (yuval@ubeya.com) but is an internal
+    engineering/dev-workflow CLI (Trello/Asana tooling), not a client library
+    for the Ubeya platform API.
+notes: No first-party API client SDKs found on npm, PyPI, Maven Central, NuGet,
+  RubyGems, Packagist, or crates.io as of 2026-07-21. Ubeya markets an "OpenAPI"
+  for customer data access but publishes no public SDKs; integration is via
+  Zapier or partner integrations.

@@ -1,0 +1,22 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.ubeya.com/trust-center
+standards:
+- id: iso-27001
+  conforms: true
+  evidence: Trust Center states "ISO 27001 Certified — Our ISO/IEC 27001 certification
+    demonstrates our commitment to top international information security standards"
+    (https://www.ubeya.com/trust-center)
+- id: gdpr
+  conforms: true
+  evidence: Trust Center states commitment to GDPR compliance with a comprehensive
+    data protection framework (https://www.ubeya.com/trust-center)
+- id: oauth2
+  conforms: null
+  evidence: No public API documentation or OpenAPI spec published; authentication
+    model of the customer-facing "Ubeya OpenAPI" is not publicly documented.
+- id: rfc9457-problem-details
+  conforms: null
+  evidence: No public API error documentation available to assess.
+notes: Ubeya publishes no public API reference, so API-level standards conformance
+  cannot be assessed; entries above reflect published compliance claims only.

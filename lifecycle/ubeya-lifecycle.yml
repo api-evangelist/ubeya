@@ -1,0 +1,11 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.ubeya.com/status
+status_page: https://www.ubeya.com/status
+status_page_embed: https://ubeya-status-view.base44.app/StatusPage
+versioning: null
+deprecation: null
+sla: null
+notes: Ubeya publishes a public status page at /status (embedding a hosted status view).
+  No public API versioning policy, deprecation policy, or SLA documentation was found;
+  the platform API surface is customer/partner-only.

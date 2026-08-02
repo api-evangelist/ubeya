@@ -1,7 +1,16 @@
 aid: ubeya
 name: Ubeya
-description: Ubeya is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 8
+  pass: local-v1
+description: Ubeya is an AI-powered workforce management platform for businesses that
+  rely on hourly and temporary workers, including staffing agencies, stadiums, events,
+  hospitality, catering, healthcare, and retail operations. The platform covers scheduling,
+  time and attendance, communication, payroll, compliance, reporting, CRM, vendor
+  management, and a worker app, and integrates with ATS, CRM, payroll, and billing
+  systems as well as Zapier and a customer-facing OpenAPI for programmatic data access.
 url: https://raw.githubusercontent.com/api-evangelist/ubeya/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +18,31 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://cdn.prod.website-files.com/60b36baccb708922434ca8b3/60b36baccb70896b1a4ca9ac_Ubeya%20Webclip.png
 tags:
 - Company
+- Workforce Management
+- Staffing
+- Scheduling
+- Time and Attendance
+- Payroll
+- Events
+- Hospitality
+- Human Resources
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +51,36 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://ubeya.com
+  url: https://www.ubeya.com
+- type: Blog
+  url: https://www.ubeya.com/blog
+- type: Pricing
+  url: https://www.ubeya.com/pricing-ubeya
+- type: TermsOfService
+  url: https://www.ubeya.com/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.ubeya.com/privacy-policy
+- type: Support
+  url: https://learn.ubeya.com/en/
+- type: Login
+  url: https://auth.ubeya.com/login
+- type: Integrations
+  url: https://www.ubeya.com/company/integrations
+- type: StatusPage
+  url: https://www.ubeya.com/status
+- type: Lifecycle
+  url: lifecycle/ubeya-lifecycle.yml
+- type: ChangeLog
+  url: changelog/ubeya-changelog.yml
+- type: LLMsTxt
+  url: llms/ubeya-llms.txt
+- type: Packages
+  url: packages/ubeya-packages.yml
+- type: Conformance
+  url: conformance/ubeya-conformance.yml
+- type: Compliance
+  url: https://www.ubeya.com/trust-center
+- type: TrustCenter
+  url: security/ubeya-trust-center.yml
+- type: DomainSecurity
+  url: security/ubeya-domain-security.yml
